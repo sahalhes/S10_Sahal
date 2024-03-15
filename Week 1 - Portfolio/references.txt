@@ -5,4 +5,5 @@ freecss
 bootstrap css
 unsplash
 
-Hosted on 
+Hosted on static.app
+Url - sahalhes.static.domains
