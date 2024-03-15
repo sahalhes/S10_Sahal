@@ -5,5 +5,5 @@ freecss
 bootstrap css
 unsplash
 
-Hosted on static.app
-Url - sahalhes.static.domains
+Hosted using firebase
+Url - https://portfolio-4ced9.web.app/
